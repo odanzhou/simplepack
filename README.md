@@ -1,0 +1,2 @@
+# simplepack
+a simple webpack
