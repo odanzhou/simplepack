@@ -7,9 +7,11 @@ export const hello = (name) => {
   return 'hello, my name is ' + name
 }
 
-export default test = () => {
+const test = () => {
   console.log('this is test')
 }
+
+export default test
 
 export {
   greeting
