@@ -1,6 +1,8 @@
 
+import meet from './meet.js'
+
 const greeting = (name) => {
-  return 'hello ' + name
+  return 'hello ' + name + ' ' + meet()
 }
 
 export const hello = (name) => {
